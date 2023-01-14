@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 一个想写代码的菜狗
+
 <!--
 **Lsectime/Lsectime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
